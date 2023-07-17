@@ -23,3 +23,7 @@ Cashier- Features:
 
 1. View Unconfirmed orders
 2. Confirm the orders (Cash payment)
+
+Methods and technologies used:
+
+In this system used waterfall method as the system development life cycle. Accordingly, initially  gather and analysis the requirements. After that design the system. In that phase developed a paper prototype to clearly identify the project. Then implemented the system according to the system design. After implementation tested the entire system. MySQL used to create and manage the databases.
