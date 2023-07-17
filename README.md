@@ -11,13 +11,15 @@ Objectives:
 2. Determine how much efficient that conduct ordering process and operational procedures as accurately as possible by using JAVA.
 
 Admin- Features:
-Add item details
-Update item details
-Delete item details
-Add employee details
-Update employee details
-Delete employee details
 
+1. Add item details
+2. Update item details
+3. Delete item details
+4. Add employee details
+5. Update employee details
+6. Delete employee details
+   
 Cashier- Features:
-View Unconfirmed orders
-Confirm the orders (Cash payment)
+
+1. View Unconfirmed orders
+2. Confirm the orders (Cash payment)
