@@ -9,6 +9,7 @@ Provide a basis to improve ordering process and operational procedures more accu
 Objectives:
 1. Determine the possibility of conducting ordering process and operational procedures by JAVA.
 2. Determine how much efficient that conduct ordering process and operational procedures as accurately as possible by using JAVA.
+
 Admin- Features:
 Add item details
 Update item details
@@ -16,6 +17,7 @@ Delete item details
 Add employee details
 Update employee details
 Delete employee details
+
 Cashier- Features:
 View Unconfirmed orders
 Confirm the orders (Cash payment)
